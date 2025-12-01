@@ -5,7 +5,13 @@
   "author": "Florian Ernst (TheMrZZ)",
   "type": "module",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "new-day": "ts-node scripts/new-day.ts",
+    "build": "ts-node scripts/sandstone.ts build",
+    "watch": "ts-node scripts/sandstone.ts watch",
+    "part1": "ts-node scripts/run-ts.ts 1",
+    "part2": "ts-node scripts/run-ts.ts 2"
+  },
   "dependencies": {
     "sandstone": "^0.13.6",
     "sandstone-cli": "^0.5.4"

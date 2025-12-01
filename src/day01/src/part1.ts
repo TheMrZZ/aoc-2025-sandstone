@@ -5,7 +5,7 @@
 
 import { _, BasePath, Data, MCFunction, NBT, tell, tellraw, Variable } from "sandstone";
 
-import { day } from "../config";
+import { day } from "../config.ts";
 import * as _example from "../values/example.ts";
 import * as _input from "../values/input.ts";
 
