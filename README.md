@@ -1,4 +1,4 @@
-# Advent of Code 2025 - Minecraft Edition
+# <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/12/Grass_Block_JE2.png" width="32" height="32" alt="Minecraft Grass Block"> Advent of Code 2025 - Minecraft Edition
 
 <div align="center">
   Go to day <a href="src/day01">[1]</a>
