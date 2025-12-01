@@ -2,3 +2,5 @@ node_modules
 .sandstone
 .vscode
 .biome
+options.ts
+**/input.ts
