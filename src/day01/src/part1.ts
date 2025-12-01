@@ -1,6 +1,5 @@
 /**
- * This file is just an example.
- * You can delete it!
+ * Part 1: Count every time the dial reaches 0 at the end of a rotation
  */
 
 import { _, BasePath, Data, MCFunction, NBT, tell, tellraw, Variable } from "sandstone";
